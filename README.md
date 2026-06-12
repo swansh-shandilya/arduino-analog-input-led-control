@@ -6,7 +6,7 @@ An Arduino project that uses a potentiometer to control three LEDs based on diff
 ## Components
 - Arduino Uno
 - Potentiometer
-- 3 LEDs(Red,Yellow,Blue)
+- 3 LEDs (Red,Yellow,Blue)
 - Resistors
 - Breadboard
 
