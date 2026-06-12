@@ -26,5 +26,4 @@ void loop() {
     digitalWrite(rl, HIGH);
 
   }
-
 }
